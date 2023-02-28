@@ -1,4 +1,4 @@
-# SQL_Project2
+# SQL_Project_2
 ## This repository holds SQL project depicting various trends of the FIFA World Cups.
 
 The SQL project is based on real data from 1930 to 2022. The project aims to retrieve several insights from the data, which are enumerated below:
