@@ -8,8 +8,8 @@ The SQL project is based on real data from 1930 to 2022. The project aims to ret
 3) Which countries have entered the playoffs the most time
 4) How often does the home team win matches
 5) How often does the host country win the World Cup? 
-6) How have the number of teams and matches in the World Cup changed over time? (DOUBT IN NUMBER OF TEAMS)
-7) Which teams have scored the most goals in World Cup history? (ISSUE IN Team1)
+6) How have the number of teams and matches in the World Cup changed over time?
+7) Which teams have scored the most goals in World Cup history? 
 8) Best performing player every world cup
 9) Historiacl Trends: Average number of goals per game/tournament. Distribution of goals scored by teams
 10) Top 5 stadiums/countries to host the most matches
